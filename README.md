@@ -11,7 +11,7 @@ git clone https://github.com/ShapeShiftOS/android_vendor_oplauncher vendor/oplau
 
 then 
 
-cd lineage/vendor/lineage/config
+cd /vendor/lineage/config
 
 then
 
