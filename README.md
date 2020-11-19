@@ -5,7 +5,11 @@ to include in your build
 
 git clone https://github.com/ShapeShiftOS/android_vendor_oplauncher vendor/oplauncher
 
-vendor/lineage/config
+then 
+
+cd vendor/lineage/config
+
+then
 
 nano common.mk
 
