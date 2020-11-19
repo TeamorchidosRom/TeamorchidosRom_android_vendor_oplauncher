@@ -1,4 +1,15 @@
-# Oneplus Launcher Mod by @Skulshady
+# Oneplus Launcher Mod
 
-## Disclaimer
+
+to include in your build
+
+git clone https://github.com/ShapeShiftOS/android_vendor_oplauncher vendor/oplauncher
+
+vendor/lineage/config
+
+nano common.mk
+
+include vendor/oplauncher/OPLauncher2.mk
+
+## Oneplus Launcher Mod by @Skulshady ##
 - All credits goes to the Skulshady for modding Oneplus Launcher for AOSP roms.
